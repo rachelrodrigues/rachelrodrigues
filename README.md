@@ -9,7 +9,7 @@ Here are some of the tools and technologies I've worked with:
 - **Frameworks & Tools**: TensorFlow, Pandas, NumPy, Matplotlib, scikit-learn, SAS, R, Flutter
 - **Developer Tools**: Git, GitHub, VS Code, Jupyter Notebook
 
-## 🚀 Key Projects
+## Key Projects
 
 ### HeartInsight  
 A heart disease prediction app developed through the Break Through Tech Career Launch program.  
