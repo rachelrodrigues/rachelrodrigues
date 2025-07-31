@@ -15,7 +15,7 @@ Here are some of the tools and technologies I've worked with:
 A heart disease prediction app developed through the Break Through Tech Career Launch program.  
 **Tech**: Python, Pandas, NumPy, scikit-learn, Flutter  
 **What it does**: Predicts the risk of heart disease by taking in user input and using logistic regression.
-🔗 [GitHub Repo]((https://github.com/rachelrodrigues/Career-Launch-Group-7)]
+🔗 [GitHub Repo](https://github.com/rachelrodrigues/HeartInsight)
 <!--
 **rachelrodrigues/rachelrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
