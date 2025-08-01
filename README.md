@@ -6,7 +6,7 @@ I'm a Computer Science major at the University of Maryland, minoring in Statisti
 Here are some of the tools and technologies I've worked with:
 
 - **Languages**: Python, Java, C/C++, SQL, HTML/CSS, JavaScript
-- **Frameworks & Tools**: TensorFlow, Pandas, NumPy, Matplotlib, scikit-learn, SAS, R, Flutter
+- **Frameworks & Tools**: Pandas, NumPy, Matplotlib, scikit-learn, SAS, R, Flutter
 - **Developer Tools**: Git, GitHub, VS Code, Jupyter Notebook
 
 ## Key Projects
