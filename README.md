@@ -1,6 +1,10 @@
 ## Hi there, I'm Rachel Rodrigues
 I'm a Computer Science major at the University of Maryland, minoring in Statistics. I'm passionate about using technology to create meaningful, inclusive solutions — whether through machine learning, research, or app development. I'm a dedicated collaborator and problem-solver always seeking new challenges and growth opportunities.
 
+Feel free to connect with me below⬇️
+[LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+[Email](mailto:rachelmarianr@gmail.com)
+
 ## Tech Stack
 
 Here are some of the tools and technologies I've worked with:
