@@ -9,8 +9,8 @@ Feel free to connect with me below⬇️
 
 Here are some of the tools and technologies I've worked with:
 
-- **Languages**: Python, Java, C/C++, SQL, HTML/CSS, JavaScript
-- **Frameworks & Tools**: Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow, Pytorch, Keras, SAS, R, Flutter
+- **Languages**: Python, Java, C/C++, JavaScript, SQL, HTML/CSS
+- **Frameworks & Tools**: Scikit-learn, TensorFlow, PyTorch, Keras, SAS, R, Flutter
 - **Developer Tools**: Git, GitHub, VS Code, Jupyter Notebook
 
 ## Key Projects
