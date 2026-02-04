@@ -19,12 +19,16 @@ Here are some of the tools and technologies I've worked with:
 A heart disease prediction app developed through the Break Through Tech Career Launch program.  
 **Tech**: Python, Pandas, NumPy, scikit-learn, Flutter  
 **What it does**: Predicts the risk of heart disease by taking in user input and using logistic regression.
+
 🔗 [HeartInsight GitHub Repo](https://github.com/rachelrodrigues/HeartInsight)
 
 ### Evaluator Insight - B2B Buyer Psychology Platform
-Worked alongside Chambers Capital Ventures to apply NLP and clustering models to firmographic data in order to profile B2B decisioon-makers
+Worked alongside Chambers Capital Ventures to apply NLP and clustering models to firmographic data in order to profile B2B decision-makers.
+
 **Tech** Python, Scikit-learn, Natural Language Toolkit, TextBlob, VADER, Streamlit
+
 **What it is** My team extracted sentiment and applied clustering to B2B prospects, and then grouped prospects into actionable personas. From there, we built a dashboard with persona breakdowns and recommended pitch strategies.
+
 🔗 [Evaluator Insight GitHub Repo](https://github.com/Chambers-Capital-Ventures-Inc/Evaluator-Insight)
 
 <!--
